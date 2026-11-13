@@ -1,3 +1,0 @@
-@echo off
-echo Conectando a la base de datos ms_catalogo...
-"C:\Users\ASUS\pgsql\bin\psql.exe" -U postgres -h localhost -p 5433 -d ms_catalogo
